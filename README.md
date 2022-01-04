@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aseel</h1>
-<h3 align="center"></h3>
-
-
-
-I'm  technical enthusiast who does web development 🌐, mobile app development 📱and ML/DL development🤖. Passionate to contribute open-source projects and leveraging them to build cool stuffs 🛠️. 
- 
+<h3 align="center">Student at CE Trivandrum 🌟</h3>
 <br/>
-
-
+<!-- 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=aseel-sm&label=Profile%20views&color=0e75b6&style=flat"
+    alt="aseel-sm" /> 
+  </p> -->
+I'm  technical enthusiast who does web development 🌐, mobile app development 📱and ML/DL development🤖. Passionate to contribute open-source projects and leveraging them to build cool stuffs 🛠️. 
+ <br/>
+<br/>
 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on Open Source Projects
