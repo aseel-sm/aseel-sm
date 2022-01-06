@@ -11,11 +11,17 @@ I'm  technical enthusiast who does web development 🌐, mobile app development 
 <br/>
 
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with CNN
-- 💬 Ask me about tech related, I am happy to help;
-- 📫 How to reach me:**aseelsm0027@gmail.com**
 
+- 👯 I’m looking to collaborate on Open Source Projects
+
+- 🤔 I’m looking for help with CNN
+
+- 💬 Ask me about tech related, I am happy to help;
+
+- 📫 How to reach me: **aseelsm0027@gmail.com**
+
+
+<br>
 
 ### 🔨 Languages and Tools:
 
