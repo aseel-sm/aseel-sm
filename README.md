@@ -1,3 +1,4 @@
+<p  align="center"> <img  src="https://github.com/aseel-sm/aseel-sm/blob/main/giphy.gif" alt="aseel_sm git"/><p/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aseel</h1>
 <h3 align="center">Student at CE Trivandrum 🌟</h3>
 <br/>
